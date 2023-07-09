@@ -1,6 +1,6 @@
 # Sistema de PDV para Banca de Jornal
 
-Este projeto é um sistema de Ponto de Venda (PDV) desenvolvido para atender as necessidades de uma banca de jornal. Ele visa agilizar o processo de vendas, facilitar o controle de estoque e fornecer dados de desempenho para auxiliar nas decisões de negócio. O sistema é projetado para ser intuitivo, fácil de usar e seguro, garantindo a privacidade das informações. 
+Este projeto é um sistema de Ponto de Venda (PDV) desenvolvido para atender as necessidades de uma banca de jornal. Ele visa agilizar o processo de vendas, facilitar o controle de estoque e fornecer dados de desempenho para auxiliar nas decisões de negócio. O sistema é projetado para ser intuitivo, fácil de usar e seguro, garantindo a privacidade das informações.
 
 ## Objetivo
 
